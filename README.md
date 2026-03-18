@@ -2,6 +2,10 @@
 
 An intelligent AI Stock Market Assistant built using modern LLMs and agentic workflows. The application enables users to interact with financial data conversationally, combining real-time insights, research, and knowledge retrieval in a single interface.
 
+<p align="center">
+  <img src="assets/demo.gif" width="500" /><br>
+</p>
+
 ---
 
 # 🚀 Purpose
