@@ -24,7 +24,7 @@ The goal of this project is to create a **smart financial assistant** that can:
 ### 🔹 Core AI & Agent
 
 * LangChain (ReAct Agent framework)
-* Google Gemini (`gemini-2.5-flash-lite`)
+* Google Gemini (`gemini-2.5-flash`)
 
 ### 🔹 Data Sources
 
